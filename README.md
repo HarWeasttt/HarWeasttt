@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Andrew_Shlykov
+### 👋 Hello, I'm Andrew
 
 **💻 Full-Stack Developer** with a passion for building efficient and scalable web applications. I enjoy tackling complex problems and turning ideas into reality through code.
 
