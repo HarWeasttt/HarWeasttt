@@ -39,7 +39,7 @@
 ### 🔗 Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HarWeastttt)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your_profile](https://www.instagram.com/harweast/?igsh=MXIyZzN4dXB5Y3Vt&utm_source=qr))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/andrew-shykov-4857b0319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harweast)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-shykov-4857b0319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrew_shlykov@mail.ru)
 
