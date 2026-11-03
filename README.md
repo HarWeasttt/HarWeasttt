@@ -34,7 +34,6 @@
 ### 📊 GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarWeasttt&layout=compact&theme=radical)](https://github.com/HarWeasttt)
-
 ---
 ### 🔗 Connect with me
 
