@@ -33,7 +33,8 @@
 
 ### 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarWeasttt&layout=compact&theme=radical)](https://github.com/HarWeasttt)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/HarWeasttt)
+
 ---
 ### 🔗 Connect with me
 
@@ -41,4 +42,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harweast)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-shykov-4857b0319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrew_shlykov@mail.ru)
-
